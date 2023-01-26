@@ -1,0 +1,22 @@
+.single-cart {
+  border: 1px solid lightgray;
+}
+
+.footer-item {
+  border-right: 1px solid rgb(218, 216, 216);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.qty-btns {
+  min-width: 100px;
+  justify-content: space-around;
+  height: 45px
+}
+
+.qty-btns i {
+  padding: 1px;
+  size: 17px;
+}
